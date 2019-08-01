@@ -1,0 +1,11 @@
+Country: asdf, Population: 234
+xuy
+7
+g
+;
+
+
+
+Country: africa, Population: 2342351
+Country: russia, Population: 93281
+Country: russia, Population: 91820
